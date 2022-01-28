@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_mode">#282c35</color>
+    <color name="text">#ffffff</color>
+    <color name="bg">#000000</color>
+    <color name="card">#3b3c36</color>
+</resources>
